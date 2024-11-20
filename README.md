@@ -38,8 +38,8 @@ Si quieres colaborar o tienes alguna pregunta, ¡no dudes en contactarme!
 Puedes encontrarme en:
 
 - **Correo**: [tuemail@example.com](mailto:tuemail@example.com)
-- **LinkedIn**: [TuNombreEnLinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/jos%C3%A9-armando-espinosa-25b615337/)
-- **Portafolio**: [www.tuportafolio.com]([http://www.tuportafolio.com](https://codepen.io/INM0RTAl)
+- **LinkedIn**: [TuNombreEnLinkedIn](https://www.linkedin.com/in/jos%C3%A9-armando-espinosa-25b615337/)
+- **Portafolio**: [www.tuportafolio.com](https://codepen.io/INM0RTAl)
 
 ---
 
