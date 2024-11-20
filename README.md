@@ -37,7 +37,7 @@ Este repositorio contiene una colección de proyectos web que destacan diferente
 Si quieres colaborar o tienes alguna pregunta, ¡no dudes en contactarme!  
 Puedes encontrarme en:
 
-- **Correo**: [gmail](jarmando2965@gmail.com)
+- **Correo**: [jarmando2965@gmail.com](jarmando2965@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/jos%C3%A9-armando-espinosa-25b615337/](https://www.linkedin.com/in/jos%C3%A9-armando-espinosa-25b615337/)
 - **Portafolio**: [https://codepen.io/INM0RTAl](https://codepen.io/INM0RTAl)
 
