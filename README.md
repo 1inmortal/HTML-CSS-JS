@@ -39,7 +39,7 @@ Puedes encontrarme en:
 
 - **Correo**: [tuemail@example.com](mailto:tuemail@example.com)
 - **LinkedIn**: [linked](https://www.linkedin.com/in/jos%C3%A9-armando-espinosa-25b615337/)
-- **Portafolio**: [www.tuportafolio.com](https://codepen.io/INM0RTAl)
+- **Portafolio**: [https://codepen.io/INM0RTAl](https://codepen.io/INM0RTAl)
 
 ---
 
