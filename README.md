@@ -38,7 +38,7 @@ Si quieres colaborar o tienes alguna pregunta, ¡no dudes en contactarme!
 Puedes encontrarme en:
 
 - **Correo**: [tuemail@example.com](mailto:tuemail@example.com)
-- **LinkedIn**: [linked](https://www.linkedin.com/in/jos%C3%A9-armando-espinosa-25b615337/)
+- **LinkedIn**: [https://www.linkedin.com/in/jos%C3%A9-armando-espinosa-25b615337/](https://www.linkedin.com/in/jos%C3%A9-armando-espinosa-25b615337/)
 - **Portafolio**: [https://codepen.io/INM0RTAl](https://codepen.io/INM0RTAl)
 
 ---
