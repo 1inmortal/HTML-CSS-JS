@@ -33,7 +33,7 @@ Este código de conducta aplica tanto dentro del repositorio como en otros espac
 ---
 
 ## Aplicación
-Si observas un comportamiento que viola este código de conducta, por favor, repórtalo enviando un correo a **[tu-email@example.com]**. Todas las quejas serán revisadas e investigadas de manera confidencial. Los administradores del proyecto determinarán las acciones necesarias para abordar el problema.
+Si observas un comportamiento que viola este código de conducta, por favor, repórtalo enviando un correo a **[jarmando2965@gmail.com]**. Todas las quejas serán revisadas e investigadas de manera confidencial. Los administradores del proyecto determinarán las acciones necesarias para abordar el problema.
 
 ---
 
