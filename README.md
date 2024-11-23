@@ -23,14 +23,16 @@ Este repositorio contiene una colección de proyectos web que destacan diferente
 
 ## Proyectos destacados
 
-1. **[Nombre del Proyecto 1]**  
-   Breve descripción del proyecto (e.g., "Una página de aterrizaje moderna con animaciones CSS y diseño responsivo").
+1.	Menú Lateral Expandible:
+	•	Un menú interactivo y responsivo que se adapta a cualquier dispositivo. Diseñado con HTML, CSS y JavaScript, permite una navegación intuitiva y estilizada para aplicaciones web.
 
-2. **[Nombre del Proyecto 2]**  
-   Breve descripción del proyecto (e.g., "Un sistema interactivo de gestión de tareas con almacenamiento local en el navegador").
+	2.	Interfaz Dinámica con Listas:
+	•	Una página con funcionalidad para agregar, editar y eliminar elementos de una lista. Implementa JavaScript para la manipulación dinámica del DOM y CSS para animaciones suaves.
 
-3. **[Nombre del Proyecto 3]**  
-   Breve descripción del proyecto (e.g., "Un sitio web empresarial con integración de API y diseño accesible").
+	3.	Formulario Avanzado con Validación:
+	•	Un formulario moderno y responsivo que incluye validación en tiempo real usando JavaScript. Ideal para recopilar datos de usuarios de manera efectiva y profesional.
+
+Estos proyectos están enfocados en diseño responsivo, interactividad y usabilidad.
 
 ## Contacto
 
